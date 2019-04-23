@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<configuration>
+  <Password value="pass@word123">
+  </Password>
+  <UserID value="test2">
+  </UserID>
+  <DataBase value="testdb33">
+  </DataBase>
+  <Host value="192.168.1.209">
+  </Host>
+  <Port value="5433">
+  </Port>
+</configuration>

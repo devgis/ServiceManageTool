@@ -1,0 +1,9 @@
+E:\Setup\ServicesManageTool\ServicesManageTool\bin\Debug\ServicesManageTool.exe.config
+E:\Setup\ServicesManageTool\ServicesManageTool\obj\x86\Debug\LNS.ServicesManageTool.Main.resources
+E:\Setup\ServicesManageTool\ServicesManageTool\obj\x86\Debug\LNS.ServicesManageTool.Properties.Resources.resources
+E:\Setup\ServicesManageTool\ServicesManageTool\obj\x86\Debug\ServicesManageTool.csproj.GenerateResource.Cache
+E:\Setup\ServicesManageTool\ServicesManageTool\bin\Debug\ServicesManageTool.exe
+E:\Setup\ServicesManageTool\ServicesManageTool\bin\Debug\ServicesManageTool.pdb
+E:\Setup\ServicesManageTool\ServicesManageTool\obj\x86\Debug\ServicesManageTool.exe
+E:\Setup\ServicesManageTool\ServicesManageTool\obj\x86\Debug\ServicesManageTool.pdb
+E:\Setup\ServicesManageTool\ServicesManageTool\obj\x86\Debug\LNS.ServicesManageTool.WaitForm.resources
